@@ -79,6 +79,18 @@ The model is trained on an open-source dataset of potato leaf images from **Plan
 🔹 **Improved Model Accuracy** – Enhance classification using advanced architectures (e.g., EfficientNet)   
 
 ---
+Results' 
+1.Home Page
+https://github.com/Priya-1-ishika/potato-leaf-disease-prediction/blob/c3f7139d591aaf7ef52ecf324b574138987dad76/Screenshot%20(93).png
+2.Predication page
+https://github.com/Priya-1-ishika/potato-leaf-disease-prediction/blob/c3f7139d591aaf7ef52ecf324b574138987dad76/Screenshot%20(94).png
+3.image upload
+https://github.com/Priya-1-ishika/potato-leaf-disease-prediction/blob/c3f7139d591aaf7ef52ecf324b574138987dad76/Screenshot%20(95).png
+4.predication the disease given the results
+https://github.com/Priya-1-ishika/potato-leaf-disease-prediction/blob/c3f7139d591aaf7ef52ecf324b574138987dad76/Screenshot%20(96).png
+
+
+---
 
 ## 📝 **License**  
 This project is open-source and available under the **MIT License**.  
